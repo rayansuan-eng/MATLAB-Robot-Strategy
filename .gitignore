@@ -1,0 +1,14 @@
+# MATLAB editor and session files
+*.asv
+*.m~
+*.autosave
+matlab.mat
+slprj/
+codegen/
+
+# OS and editor files
+.DS_Store
+__MACOSX/
+.idea/
+.vscode/
+Thumbs.db
